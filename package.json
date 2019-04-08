@@ -1,0 +1,13 @@
+{
+  "name": "react-native-calorie-counter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tjdavenport/react-native-calorie-counter.git",
+  "author": "tjdavenport <tjdavenport2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fatsecret": "^1.0.2",
+    "react-native-cli": "^2.0.1"
+  }
+}
